@@ -13,7 +13,7 @@ Lab4 <br/>
 <b><a href = "https://github.com/oysterly/SoftwareEngineering/tree/master/Lab5">Lab5 </a><br/></b>
   &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/tree/master/Lab5/SequenceDiagrams">Sequence Diagrams </a><br/>
   &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/Class%20Diagram.jpg"> Class Diagram </a><br/>
-  &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/Dialog%20Map.PNG> Dialog Map </a><br/>
+  &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/Dialog%20Map.PNG"> Dialog Map </a><br/>
   &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/FactoryPattern.jpg"> Design Pattern - Factory Pattern </a><br/>
   &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/KeyBoundary.jpg"> Key Boundary </a><br/>
   &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/SRS.docx"> SRS Report </a><br/>
