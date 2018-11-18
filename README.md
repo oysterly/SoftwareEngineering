@@ -40,3 +40,6 @@
   &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/SoftwareEngineeringReport.docx"> SoftwareEngineeringReport (Functional, Non-Functional Requirements, Data Dictionary, Use Case Diagram and Use Case Description) </a><br/>
   &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/System%20Architecture.pdf"> System Architecture </a><br/> 
   &nbsp; <a href ="https://github.com/oysterly/SoftwareEngineering/blob/master/Lab5/Use%20Case%20Diagram.JPG"> Use Case Diagram </a><br/>
+  
+  <a href="https://github.com/oysterly/SoftwareEngineering/blob/master/index.html"> index.html </a>: Documentation for endpoint API <br/>
+  <a href="https://github.com/oysterly/SoftwareEngineering/blob/master/style.css"> style.css </a>: Documentation for endpoint API
